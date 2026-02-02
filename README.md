@@ -78,6 +78,6 @@ pnpm openclaw onboard --install-daemon
 
 ## 文档链接
 
-- [English README (英文官方文档)](file:///Users/ybli/Documents/Projects/openclaw-cn/README-EN.md)
-- [Chinese README (中文翻译文档)](file:///Users/ybli/Documents/Projects/openclaw-cn/README-CN)
+- [English README (英文官方文档)](https://github.com/ybli-code/openclaw-cn/blob/main/READMEEN.md)
+- [Chinese README (中文翻译文档)](https://github.com/ybli-code/openclaw-cn/blob/main/READMECN.md)
 
