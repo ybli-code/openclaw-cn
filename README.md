@@ -1,5 +1,14 @@
 # OpenClaw (原 Clawdbot) 中文入门指南
+
+## AI 个人助手项目跟踪
+
+| 名称 | 内容简介 | 中文链接 | 原始链接 |
+| :--- | :--- | :--- | :--- |
+| **OpenClaw** | 强大的开源个人 AI 助手，支持主动执行任务、访问网页、处理邮件、自动编写代码等。 | [中文文档](READMECN.md) | [GitHub](https://github.com/openclaw/openclaw) |
+| **nanobot** | 由香港大学黄超老师课题组开发的超轻量级个人 AI 助手，核心逻辑仅约 4,000 行，极简且功能完备。 | [中文文档](https://github.com/ybli-code/nanobot-cn) | [GitHub](https://github.com/ybli-code/nanobot-cn) |
+
 ---
+
 OpenClaw 是一款强大的开源个人 AI 助手，由 Peter Steinberger 开发。它不仅能回答问题，还能主动执行任务，如操作系统、访问网页、处理邮件、自动编写代码等。
 
 **本项目目的：**
