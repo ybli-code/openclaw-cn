@@ -5,7 +5,7 @@
 | 名称 | 内容简介 | 中文文档 | 链接 |
 | :--- | :--- | :--- | :--- |
 | **OpenClaw** | 强大的开源个人 AI 助手，支持主动执行任务、访问网页、处理邮件、自动编写代码等。 | [中文文档](READMECN.md) | [GitHub](https://github.com/openclaw/openclaw) |
-| **nanobot** | 由香港大学黄超老师课题组开发的超轻量级个人 AI 助手，核心逻辑仅约 4,000 行，极简且功能完备。 | [中文文档](READMECN.md) | [GitHub](https://github.com/ybli-code/nanobot-cn) |
+| **nanobot** | 由香港大学黄超老师课题组开发的超轻量级个人 AI 助手，核心逻辑仅约 4,000 行，极简且功能完备。 | [中文文档](https://github.com/ybli-code/nanobot-cn/blob/main/READMECN.md) | [GitHub](https://github.com/ybli-code/nanobot-cn) |
 
 ---
 
